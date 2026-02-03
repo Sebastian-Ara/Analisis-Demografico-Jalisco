@@ -36,7 +36,7 @@ El notebook sigue el siguiente flujo:
 
 ---
 
-## Nota importante sobre los datos
+## ⚠️ Nota importante sobre los datos
 Los archivos de datos originales **no se incluyen en este repositorio**.
 Por esta razón, el notebook **no es ejecutable de forma directa** y no se
 visualizan los resultados ni las gráficas generadas.
