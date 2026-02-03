@@ -59,4 +59,4 @@ orientado a identificar:
 ---
 
 ## 👤 Autor
-Sebastián Araujo Ayala
+Sebastian Araujo Ayala
