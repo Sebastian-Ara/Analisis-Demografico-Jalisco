@@ -8,14 +8,12 @@ y distribución territorial.
 El énfasis del proyecto está en **el proceso de análisis**, la **limpieza y transformación
 de datos** y la **estructura analítica**, más que en la ejecución reproducible.
 
----
 
 ## Objetivo
 - Explorar y comprender la estructura demográfica de Jalisco
 - Aplicar técnicas de limpieza y análisis de datos en Python
 - Presentar resultados de forma clara y ordenada mediante un flujo analítico
 
----
 
 ## Herramientas utilizadas
 - Python
@@ -24,7 +22,6 @@ de datos** y la **estructura analítica**, más que en la ejecución reproducibl
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
----
 
 ## Estructura del análisis
 El notebook sigue el siguiente flujo:
@@ -34,7 +31,6 @@ El notebook sigue el siguiente flujo:
 4. Visualización de variables relevantes
 5. Conclusiones generales
 
----
 
 ## ⚠️ Nota importante sobre los datos
 Los archivos de datos originales **no se incluyen en este repositorio**.
@@ -47,7 +43,6 @@ Este repositorio se conserva con fines demostrativos para mostrar:
 - Lógica de limpieza y transformación
 - Documentación y orden del flujo analítico
 
----
 
 ## Resultados esperados
 Aunque los resultados no son visibles en este repositorio, el análisis está
@@ -56,7 +51,5 @@ orientado a identificar:
 - Distribución poblacional por grupos
 - Posibles implicaciones para análisis sociales o económicos
 
----
-
-## 👤 Autor
+## Autor
 Sebastian Araujo Ayala
